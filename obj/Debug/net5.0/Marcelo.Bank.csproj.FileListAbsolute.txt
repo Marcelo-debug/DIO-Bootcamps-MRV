@@ -1,0 +1,16 @@
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.csprojAssemblyReference.cache
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.AssemblyInfoInputs.cache
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.AssemblyInfo.cs
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.csproj.CoreCompileInputs.cache
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\Marcelo.Bank.exe
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\Marcelo.Bank.deps.json
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\Marcelo.Bank.runtimeconfig.json
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\Marcelo.Bank.runtimeconfig.dev.json
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\Marcelo.Bank.dll
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\ref\Marcelo.Bank.dll
+C:\marcelo\Marcelo.Bank\bin\Debug\net5.0\Marcelo.Bank.pdb
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.dll
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\ref\Marcelo.Bank.dll
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.pdb
+C:\marcelo\Marcelo.Bank\obj\Debug\net5.0\Marcelo.Bank.genruntimeconfig.cache
